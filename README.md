@@ -1,9 +1,9 @@
 This is a shameless ripof of @zwbetz-gh's [starter-hugo-debug-site](https://github.com/zwbetz-gh/starter-hugo-debug-site), only a little bit more adapted to one's daily usage.
 
 1. Download repo
-2. Adjust to reprouced issue
+2. Adjust to reproduce issue
 3. Remove hereby walkthrough and leave only information below
-4. init git/first commit/push etc...
+4. Init git/first commit/push etc...
 
 ---
 
